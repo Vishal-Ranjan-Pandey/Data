@@ -1,0 +1,4 @@
+file:///E:/Projects/Data%20Analysis/DA%20Projects/Window_Functions_Cheat_Sheet.pdf
+https://www.sqltutorial.org/sql-window-functions/
+https://www.geeksforgeeks.org/window-functions-in-sql/
+https://learnsql.com/blog/sql-window-functions-examples/
